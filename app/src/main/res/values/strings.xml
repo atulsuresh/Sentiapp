@@ -5,4 +5,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="maintextbox">What\'s on your mind</string>
+    <string name="checktextbutton">Check your mind</string>
+    <string name="returnmsg">We are waiting.</string>
 </resources>
